@@ -1,4 +1,3 @@
-
 #Requires -Modules @{ ModuleName = 'Az.Compute'; ModuleVersion = '7.1.1' }
 
 [CmdletBinding()]
